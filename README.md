@@ -1,6 +1,6 @@
 # Shiptivitas — YC x Forage Software Engineer Job Simulation
 
-![Certificate of Completion](./certificate/Y-Combinator-SWE.pdf)
+![Certificate of Completion](Y Combinator SWE-1.png)
 
 > **Completed:** July 9, 2026 | **Issued by:** Forage x Y Combinator
 
