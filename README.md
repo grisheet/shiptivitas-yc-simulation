@@ -1,4 +1,4 @@
-# Shiptivitas — YC x Forage Software Engineer Job Simulation
+# Shiptivitas — YC x Forage Software Engineer Intern
 
 > **Completed:** July 9, 2026 | **Issued by:** Forage x Y Combinator
 
