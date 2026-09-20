@@ -2,7 +2,7 @@
 
 > **Completed:** July 9, 2026 | **Issued by:** Forage x Y Combinator
 
-This repository contains all the work completed during the **Y Combinator "Working as a Software Engineer at a Start Up"** job simulation on Forage. The simulation covered full-stack development, backend engineering, SQL analytics, and startup application writing.
+This repository contains all the work completed during the **Y Combinator "Working as a Software Engineer at a Start Up"** on Forage. The simulation covered full-stack development, backend engineering, SQL analytics, and startup application writing.
 
 ---
 
